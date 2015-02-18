@@ -13,8 +13,5 @@ class SessionService {
 
     }
 
-    def getDataSource () {
-        return dataSourceName
 
-    }
 }
